@@ -5,7 +5,7 @@
         "contractAddress": "0xE41d2489571d322189246DaFA5ebDe1F4699F498",
         "coingeckoId": "0x",
         "imageUrl": "https://assets.coingecko.com/coins/images/863/large/0x.png?1696501996",
-        "type": "erc20"
+        "type": "erc20",
         "decimals": 18
     },
     {
